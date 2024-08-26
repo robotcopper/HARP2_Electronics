@@ -1,15 +1,53 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.11-7.0.11~ubuntu22.04.1*%
-%TF.CreationDate,2024-08-15T15:16:49+02:00*%
+%TF.CreationDate,2024-08-26T12:19:36+02:00*%
 %TF.ProjectId,MotorDriver-Elec,4d6f746f-7244-4726-9976-65722d456c65,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.11-7.0.11~ubuntu22.04.1) date 2024-08-15 15:16:49*
+G04 Created by KiCad (PCBNEW 7.0.11-7.0.11~ubuntu22.04.1) date 2024-08-26 12:19:36*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRoundRect*
+0 Rectangle with rounded corners*
+0 $1 Rounding radius*
+0 $2 $3 $4 $5 $6 $7 $8 $9 X,Y pos of 4 corners*
+0 Add a 4 corners polygon primitive as box body*
+4,1,4,$2,$3,$4,$5,$6,$7,$8,$9,$2,$3,0*
+0 Add four circle primitives for the rounded corners*
+1,1,$1+$1,$2,$3*
+1,1,$1+$1,$4,$5*
+1,1,$1+$1,$6,$7*
+1,1,$1+$1,$8,$9*
+0 Add four rect primitives between the rounded corners*
+20,1,$1+$1,$2,$3,$4,$5,0*
+20,1,$1+$1,$4,$5,$6,$7,0*
+20,1,$1+$1,$6,$7,$8,$9,0*
+20,1,$1+$1,$8,$9,$2,$3,0*%
+G04 Aperture macros list end*
+%ADD10RoundRect,0.150000X-0.789471X0.282596X0.639471X-0.542404X0.789471X-0.282596X-0.639471X0.542404X0*%
 G04 APERTURE END LIST*
+D10*
+%TO.C,UN2003LV1*%
+X69570000Y-137520886D03*
+X68935000Y-138620738D03*
+X68300000Y-139720591D03*
+X67665000Y-140820443D03*
+X67030000Y-141920295D03*
+X66395000Y-143020147D03*
+X65760000Y-144120000D03*
+X65125000Y-145219852D03*
+X69411826Y-147694852D03*
+X70046826Y-146595000D03*
+X70681826Y-145495147D03*
+X71316826Y-144395295D03*
+X71951826Y-143295443D03*
+X72586826Y-142195591D03*
+X73221826Y-141095738D03*
+X73856826Y-139995886D03*
+%TD*%
 M02*
