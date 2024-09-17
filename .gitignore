@@ -1,0 +1,14 @@
+# Ignore BAU-Elec files and folders
+BAU-Elec/#auto_saved_files#
+BAU-Elec/BAU-Elec-backups/
+BAU-Elec/BAU-Elec.kicad_prl
+BAU-Elec/_autosave-BAU-Elec.kicad_pcb
+BAU-Elec/fp-info-cache
+BAU-Elec/~BAU-Elec.kicad_sch.lck
+BAU-Elec/~_autosave-BAU-Elec.kicad_pcb.lck
+
+# Ignore MotorDriver-Elec files and folders
+MotorDriver-Elec/MotorDriver-Elec-backups/
+MotorDriver-Elec/MotorDriver-Elec.kicad_prl
+MotorDriver-Elec/fp-info-cache
+
