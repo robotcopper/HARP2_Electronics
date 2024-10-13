@@ -1,22 +1,22 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "B3B-XH-A_LF__SN_" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "J" (at 6.35 2.54 0)
+  (symbol "B2P-VH_LF__SN_" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (at 6.35 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "B3B-XH-A" (at -1.27 -12.7 0)
+    (property "Value" "B2P-VH" (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "" (at 7.62 -15.24 0)
+    (property "Footprint" "" (at 8.89 -12.7 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Datasheet" "" (at 0 0 0)
+    (property "Datasheet" "" (at 1.27 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "B3B-XH-A_LF__SN__1_1"
+    (symbol "B2P-VH_LF__SN__1_1"
       (polyline
         (pts
-          (xy 5.08 -10.16)
-          (xy 12.7 -10.16)
+          (xy 5.08 -7.62)
+          (xy 12.7 -7.62)
         )
         (stroke (width 0.127) (type default))
         (fill (type none))
@@ -24,31 +24,7 @@
       (polyline
         (pts
           (xy 5.08 0)
-          (xy 5.08 -10.16)
-        )
-        (stroke (width 0.127) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 10.16 -7.62)
           (xy 5.08 -7.62)
-        )
-        (stroke (width 0.127) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 10.16 -7.62)
-          (xy 8.89 -8.4667)
-        )
-        (stroke (width 0.127) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 10.16 -7.62)
-          (xy 8.89 -6.7733)
         )
         (stroke (width 0.127) (type default))
         (fill (type none))
@@ -103,7 +79,7 @@
       )
       (polyline
         (pts
-          (xy 12.7 -10.16)
+          (xy 12.7 -7.62)
           (xy 12.7 0)
         )
         (stroke (width 0.127) (type default))
@@ -124,10 +100,6 @@
       (pin unspecified line (at 0 -5.08 0) (length 5.08)
         (name "2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line (at 0 -7.62 0) (length 5.08)
-        (name "3" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
       )
     )
   )
