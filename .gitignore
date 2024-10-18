@@ -8,7 +8,19 @@ BAU-Elec/~BAU-Elec.kicad_sch.lck
 BAU-Elec/~_autosave-BAU-Elec.kicad_pcb.lck
 
 # Ignore MotorDriver-Elec files and folders
+MotorDriver-Elec/#auto_saved_files#
 MotorDriver-Elec/MotorDriver-Elec-backups/
 MotorDriver-Elec/MotorDriver-Elec.kicad_prl
+MotorDriver-Elec/_autosave-MotorDriver-Elec.kicad_pcb
 MotorDriver-Elec/fp-info-cache
+MotorDriver-Elec/~MotorDriver-Elec.kicad_sch.lck
+MotorDriver-Elec/~_autosave-MotorDriver-Elec.kicad_pcb.lck
 
+# Ignore PowerBoard-Elec files and folders
+PowerBoard-Elec/#auto_saved_files#
+PowerBoard-Elec/PowerBoard-Elec-backups/
+PowerBoard-Elec/PowerBoard-Elec.kicad_prl
+PowerBoard-Elec/_autosave-PowerBoard-Elec.kicad_pcb
+PowerBoard-Elec/fp-info-cache
+PowerBoard-Elec/~PowerBoard-Elec.kicad_sch.lck
+PowerBoard-Elec/~_autosave-PowerBoard-Elec.kicad_pcb.lck
