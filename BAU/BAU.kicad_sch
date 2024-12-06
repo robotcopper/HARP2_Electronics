@@ -1290,7 +1290,7 @@
     )
   )
 
-  (junction (at 57.15 104.14) (diameter 0) (color 0 0 0 0)
+  (junction (at 59.69 104.14) (diameter 0) (color 0 0 0 0)
     (uuid 3745405e-4348-4718-9e2b-c21808eb52ea)
   )
 
@@ -1351,17 +1351,17 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "stop_button" (shape input) (at 31.75 104.14 180) (fields_autoplaced)
+  (global_label "stop_button" (shape input) (at 34.29 104.14 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 10774e1e-7aab-4dee-9d4c-eda27c85b457)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 17.698 104.14 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 20.238 104.14 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "red_led" (shape input) (at 72.39 96.52 90) (fields_autoplaced)
+  (global_label "red_led" (shape input) (at 74.93 96.52 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 16583f53-914c-4cb5-9760-34172415e759)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 72.39 86.6406 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 74.93 86.6406 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1372,10 +1372,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "5V" (shape input) (at 44.45 99.06 90) (fields_autoplaced)
+  (global_label "5V" (shape input) (at 46.99 99.06 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 29e730ea-a9c0-4d85-8daf-531b70c39493)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 44.45 93.7767 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 46.99 93.7767 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1400,10 +1400,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "green_led" (shape input) (at 57.15 96.52 90) (fields_autoplaced)
+  (global_label "green_led" (shape input) (at 59.69 96.52 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6c0a85c6-89ab-4096-a4c4-099cf42d9249)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 57.15 84.403 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 59.69 84.403 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1428,10 +1428,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "5V" (shape input) (at 31.75 96.52 90) (fields_autoplaced)
+  (global_label "5V" (shape input) (at 34.29 96.52 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9b2b9a24-7d3e-4c08-a9f7-d8bcfc7c31a0)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 31.75 91.2367 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 34.29 91.2367 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1442,10 +1442,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "5V" (shape input) (at 31.75 121.92 270) (fields_autoplaced)
+  (global_label "5V" (shape input) (at 34.29 121.92 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid aa54952d-663a-49d6-9e62-5cfee37f7743)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 31.75 127.2033 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 34.29 127.2033 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -1456,10 +1456,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "relay_control" (shape input) (at 72.39 104.14 0) (fields_autoplaced)
+  (global_label "relay_control" (shape input) (at 74.93 104.14 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c14c80c9-2478-4d8f-a347-586cf38b48b3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 87.7121 104.14 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 90.2521 104.14 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1484,10 +1484,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "primer_button" (shape input) (at 31.75 114.3 180) (fields_autoplaced)
+  (global_label "primer_button" (shape input) (at 34.29 114.3 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid e36b3d26-6aec-405a-be40-74dc2159d565)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 15.6417 114.3 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 18.1817 114.3 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -1506,25 +1506,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 31.75 118.11 180) (unit 1)
+  (symbol (lib_id "Device:R") (at 34.29 118.11 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0225a2ac-4374-479e-9dd3-8ea5de363601)
-    (property "Reference" "R2" (at 33.02 119.38 0)
+    (property "Reference" "R2" (at 35.56 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "10k" (at 31.75 118.11 90)
+    (property "Value" "10k" (at 34.29 118.11 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 33.528 118.11 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 36.068 118.11 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 31.75 118.11 0)
+    (property "Datasheet" "~" (at 34.29 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 42c51801-b120-47bc-a15a-0e7c4115786c))
     (pin "1" (uuid 74f07c2e-39eb-4345-9c85-50f936367e3d))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "R2") (unit 1)
         )
@@ -1532,25 +1532,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 72.39 100.33 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 74.93 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03a4069f-ec52-4a7d-8d68-604481a8d83c)
-    (property "Reference" "R5" (at 71.12 99.06 0)
+    (property "Reference" "R5" (at 73.66 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "510" (at 72.39 100.33 90)
+    (property "Value" "510" (at 74.93 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 70.612 100.33 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 73.152 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 72.39 100.33 0)
+    (property "Datasheet" "~" (at 74.93 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 3151e779-8459-46c8-abfe-2851c73b617e))
     (pin "1" (uuid cd8f885e-f15a-4bb0-912e-3ed42eab07b0))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "R5") (unit 1)
         )
@@ -1577,7 +1577,7 @@
     (pin "1" (uuid 62fd2273-fb1b-4e94-a377-3f6babec7f0d))
     (pin "3" (uuid 80dea661-d593-49b9-9ec9-9a62d80b0913))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "stop1") (unit 1)
         )
@@ -1602,7 +1602,7 @@
     )
     (pin "1" (uuid aec73246-453e-49a3-9233-02afe06e436e))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR04") (unit 1)
         )
@@ -1627,7 +1627,7 @@
     )
     (pin "1" (uuid 34cb4aca-5c24-47a8-b06f-feb23a0effb2))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR01") (unit 1)
         )
@@ -1652,7 +1652,7 @@
     )
     (pin "1" (uuid 45a37594-3e0a-4afe-8ddf-e0f3499f93ec))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR07") (unit 1)
         )
@@ -1677,7 +1677,7 @@
     )
     (pin "1" (uuid fc0dbc52-e3d2-4822-bab6-9105e9ae1ee3))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR02") (unit 1)
         )
@@ -1685,24 +1685,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 44.45 119.38 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 46.99 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 43e8ff18-1a06-4766-b68f-fbc62634a150)
-    (property "Reference" "#PWR015" (at 44.45 125.73 0)
+    (property "Reference" "#PWR015" (at 46.99 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 44.45 124.46 0)
+    (property "Value" "GND" (at 46.99 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 44.45 119.38 0)
+    (property "Footprint" "" (at 46.99 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 44.45 119.38 0)
+    (property "Datasheet" "" (at 46.99 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b0449020-1bdf-486f-919a-a0ba3cd293f9))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR015") (unit 1)
         )
@@ -1710,24 +1710,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 31.75 109.22 270) (unit 1)
+  (symbol (lib_id "power:GND") (at 34.29 109.22 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4debc026-e00e-4f42-9aee-8439a60aeb85)
-    (property "Reference" "#PWR013" (at 25.4 109.22 0)
+    (property "Reference" "#PWR013" (at 27.94 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 27.94 109.22 90)
+    (property "Value" "GND" (at 30.48 109.22 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 31.75 109.22 0)
+    (property "Footprint" "" (at 34.29 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 31.75 109.22 0)
+    (property "Datasheet" "" (at 34.29 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b5b714c2-c5dc-4aa4-ba9a-2d3cdb1119b3))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR013") (unit 1)
         )
@@ -1735,24 +1735,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 57.15 114.3 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 59.69 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4fb9fafe-e023-4231-b42c-69f760a25009)
-    (property "Reference" "#PWR014" (at 57.15 120.65 0)
+    (property "Reference" "#PWR014" (at 59.69 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 57.15 119.38 0)
+    (property "Value" "GND" (at 59.69 119.38 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 57.15 114.3 0)
+    (property "Footprint" "" (at 59.69 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 57.15 114.3 0)
+    (property "Datasheet" "" (at 59.69 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1a3a1069-7cf7-4bd2-becf-a7adcbefe6a5))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR014") (unit 1)
         )
@@ -1760,25 +1760,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 57.15 100.33 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 59.69 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 52363ea1-5965-4b54-ae2f-40c605eecf73)
-    (property "Reference" "R4" (at 55.88 99.06 0)
+    (property "Reference" "R4" (at 58.42 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "510" (at 57.15 100.33 90)
+    (property "Value" "510" (at 59.69 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 55.372 100.33 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 57.912 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 57.15 100.33 0)
+    (property "Datasheet" "~" (at 59.69 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 710a5a57-f775-416c-bb65-5ef829b68176))
     (pin "1" (uuid e2d8863c-ac2c-4e80-b407-07ffbf165f6e))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "R4") (unit 1)
         )
@@ -1804,7 +1804,7 @@
     (pin "1" (uuid a1446416-3173-4f7d-a183-b906e0ceb168))
     (pin "2" (uuid b03704d7-d8b2-44c3-95a7-dd351fb0b9b2))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "C2") (unit 1)
         )
@@ -1829,7 +1829,7 @@
     )
     (pin "1" (uuid 63c2478f-5f8e-4597-9882-cd35bdc1892b))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR09") (unit 1)
         )
@@ -1856,7 +1856,7 @@
     (pin "2" (uuid 085dc6a3-b567-4fc4-b82d-af45d89b3409))
     (pin "3" (uuid 053b1e66-a0d7-4b68-9e5a-340a21f6705a))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "L78L10_TO92") (unit 1)
         )
@@ -1894,7 +1894,7 @@
     (pin "2" (uuid 5ba2019c-d740-48b7-b810-3d900c246f73))
     (pin "10" (uuid bf598c29-448e-477e-914e-379d6fefb505))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "U2") (unit 7)
         )
@@ -1919,7 +1919,7 @@
     )
     (pin "1" (uuid f636b781-8c63-4a59-92d5-23a53a89e5b9))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR012") (unit 1)
         )
@@ -1927,25 +1927,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 31.75 100.33 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 34.29 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73b9c46d-e77f-4b26-a682-9d08230b6b0c)
-    (property "Reference" "R1" (at 30.48 99.06 0)
+    (property "Reference" "R1" (at 33.02 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "10k" (at 31.75 100.33 90)
+    (property "Value" "10k" (at 34.29 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 29.972 100.33 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 32.512 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 31.75 100.33 0)
+    (property "Datasheet" "~" (at 34.29 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid ed0583bc-8969-4193-b9ed-7fde0c39119a))
     (pin "1" (uuid 2c03e970-e003-42fd-a1c8-fe2458e3176c))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "R1") (unit 1)
         )
@@ -1972,7 +1972,7 @@
     (pin "1" (uuid 85948c2e-ee3c-4912-874a-94bcec03f73e))
     (pin "3" (uuid a423923a-b9b4-49aa-9f19-d407db9ade1e))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "starter1") (unit 1)
         )
@@ -1997,7 +1997,7 @@
     )
     (pin "1" (uuid b8fd2c7d-5e32-4450-973e-6ff303953352))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR05") (unit 1)
         )
@@ -2005,19 +2005,19 @@
     )
   )
 
-  (symbol (lib_id "74xx:74LS04") (at 64.77 104.14 0) (unit 1)
+  (symbol (lib_id "74xx:74LS04") (at 67.31 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 919dbef8-d02a-415d-92d5-8ae4d440eea6)
-    (property "Reference" "U2" (at 64.77 95.25 0)
+    (property "Reference" "U2" (at 67.31 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "74LS04" (at 64.77 97.79 0)
+    (property "Value" "74LS04" (at 67.31 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket" (at 64.77 104.14 0)
+    (property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket" (at 67.31 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04" (at 64.77 104.14 0)
+    (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04" (at 67.31 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "14" (uuid c6390100-2647-4b9f-880b-6658299f6e31))
@@ -2035,7 +2035,7 @@
     (pin "2" (uuid 5ba2019c-d740-48b7-b810-3d900c246f74))
     (pin "10" (uuid bf598c29-448e-477e-914e-379d6fefb506))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "U2") (unit 1)
         )
@@ -2060,7 +2060,7 @@
     )
     (pin "1" (uuid c638a345-4796-402d-b895-956b6fa517e0))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR011") (unit 1)
         )
@@ -2086,7 +2086,7 @@
     (pin "1" (uuid 3225e9e5-7b78-402f-8164-0502fdaf77f9))
     (pin "2" (uuid 8a76898c-2b20-4793-b6be-fcbea3f46802))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "C1") (unit 1)
         )
@@ -2113,7 +2113,7 @@
     (pin "1" (uuid 6c78de2d-ffc4-4699-bcee-fe0808ad5ccb))
     (pin "2" (uuid e0c43d7e-79a2-4684-a0d6-0288be8e2c04))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "bat_in-out1") (unit 1)
         )
@@ -2140,7 +2140,7 @@
     (pin "2" (uuid 1626f35d-6f3c-4132-90b7-95707b78977f))
     (pin "1" (uuid 0521c9ed-0eb4-412a-b9cd-706c42db2970))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "L78L05_TO92") (unit 1)
         )
@@ -2165,7 +2165,7 @@
     )
     (pin "1" (uuid 941bd288-ba38-4c91-b9b9-f6b69faa6cec))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR010") (unit 1)
         )
@@ -2190,7 +2190,7 @@
     )
     (pin "1" (uuid 335ea773-2b73-497d-962a-985a7c99fe19))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR03") (unit 1)
         )
@@ -2215,7 +2215,7 @@
     )
     (pin "1" (uuid cd09eb34-1fdc-45e9-b8de-28b6a1e65d3a))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR06") (unit 1)
         )
@@ -2240,7 +2240,7 @@
     )
     (pin "1" (uuid 8fb7928a-9cd8-448b-8038-e84494384f1b))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "#PWR08") (unit 1)
         )
@@ -2269,7 +2269,7 @@
     (pin "14" (uuid 6a9a1e54-5e57-4b9d-b3bf-7aaa1abde388))
     (pin "12" (uuid e5e54e71-4901-4180-bbbf-9ed6b23e752d))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "K1") (unit 1)
         )
@@ -2295,7 +2295,7 @@
     (pin "1" (uuid 132f674d-f1d2-4a8f-a617-cb8523f31b81))
     (pin "2" (uuid 91ef76cc-f38b-4e41-ac51-eea7fe53ea51))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "C4") (unit 1)
         )
@@ -2321,7 +2321,7 @@
     (pin "1" (uuid c958062d-ab22-43a0-970f-a586ebe78bc7))
     (pin "2" (uuid 59f9db30-5de0-4fa7-adec-24379b94f814))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "C3") (unit 1)
         )
@@ -2347,7 +2347,7 @@
     (pin "2" (uuid 5fcec28d-58f2-4058-80d6-f3e2cc4427b1))
     (pin "1" (uuid dc65184b-1326-4df8-8294-ae9c57797f69))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "R3") (unit 1)
         )
@@ -2374,7 +2374,7 @@
     (pin "3" (uuid 1a64a6d7-04e0-40c3-9d24-2aace2ab03ed))
     (pin "1" (uuid 900e7405-ed42-4743-9484-a8c0f0c52fd2))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "P16NF06L1") (unit 1)
         )
@@ -2382,19 +2382,19 @@
     )
   )
 
-  (symbol (lib_id "Timer:NA555P") (at 44.45 109.22 0) (unit 1)
+  (symbol (lib_id "Timer:NA555P") (at 46.99 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff00a2c8-6057-4510-a83b-2a5c93e2c643)
-    (property "Reference" "NA555P1" (at 46.6441 96.52 0)
+    (property "Reference" "NA555P1" (at 49.1841 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "NA555P" (at 46.6441 99.06 0)
+    (property "Value" "NA555P" (at 49.1841 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket" (at 60.96 119.38 0)
+    (property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket" (at 63.5 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf" (at 66.04 119.38 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf" (at 68.58 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "6" (uuid e1bbbf80-0aa8-4f31-9498-6d89f0a1b675))
@@ -2406,7 +2406,7 @@
     (pin "3" (uuid 78f5b65c-45aa-468b-9cb7-06231f636c70))
     (pin "1" (uuid c1bbd448-51b1-4e79-ab71-be07a246f0d1))
     (instances
-      (project "BAU-Elec"
+      (project "BAU"
         (path "/4cf8aaf1-5fad-4991-b211-d3e6ea3f72cf"
           (reference "NA555P1") (unit 1)
         )

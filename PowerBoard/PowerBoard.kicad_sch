@@ -1951,7 +1951,7 @@
     (pin "1" (uuid 36b44b0f-cf31-429c-b88b-9a4ca3bba5ab))
     (pin "2" (uuid 6c5b7d89-531f-4e44-a574-56014afee915))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U18") (unit 1)
         )
@@ -1977,7 +1977,7 @@
     (pin "1" (uuid 5d441bc6-0c7a-40d9-abd6-3efd55c31ccd))
     (pin "2" (uuid 7e8ea7f2-bd8c-4687-8c3c-1dd996f45e26))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U12") (unit 1)
         )
@@ -2004,7 +2004,7 @@
     (pin "2" (uuid f0522d59-e8ba-4a68-8443-29c27a2b413a))
     (pin "3" (uuid 22f0d04e-232e-40e9-8326-ff1c31a2b756))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "PS1") (unit 1)
         )
@@ -2029,7 +2029,7 @@
     )
     (pin "1" (uuid 20412540-06ab-475d-8357-7c61ca0d7eb5))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR012") (unit 1)
         )
@@ -2054,7 +2054,7 @@
     )
     (pin "1" (uuid 5eefac0f-a13c-4c11-88f2-5e970771ab1c))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR017") (unit 1)
         )
@@ -2080,7 +2080,7 @@
     (pin "2" (uuid 57be7d6d-8d9b-4291-883f-1cafd45f00d0))
     (pin "1" (uuid 9c1f4a51-7151-4d56-bb72-765c669ae157))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "Switch5") (unit 1)
         )
@@ -2106,7 +2106,7 @@
     (pin "1" (uuid d73889a5-881d-4ff0-8d42-5c0519a6c414))
     (pin "2" (uuid 3b9efec2-22ab-42a8-b42d-44a1aaf1eb76))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "F8") (unit 1)
         )
@@ -2131,7 +2131,7 @@
     )
     (pin "1" (uuid fa31bd6b-5741-4afe-b3ba-9ed5cb5f9cef))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR02") (unit 1)
         )
@@ -2157,7 +2157,7 @@
     (pin "2" (uuid e74845e7-2a65-496c-a047-a44ed257abfe))
     (pin "1" (uuid 744dfc2c-4eb6-425c-a8d2-ab0630fb847c))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "R3") (unit 1)
         )
@@ -2183,7 +2183,7 @@
     (pin "2" (uuid d920577e-de2c-498f-afd0-70ea2f3cb2c3))
     (pin "1" (uuid 850661e8-ebaa-4dee-bbe5-0c8646a2b8c6))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "Switch2") (unit 1)
         )
@@ -2209,7 +2209,7 @@
     (pin "1" (uuid 389fec40-a667-4718-a5a8-70ea17d5b2f0))
     (pin "2" (uuid fa65467f-c4b6-402a-8978-3adf1878fd3a))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "J1") (unit 1)
         )
@@ -2234,7 +2234,7 @@
     )
     (pin "1" (uuid 08140afa-e356-4fa9-bb6a-b0f0f8cc465a))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR020") (unit 1)
         )
@@ -2260,7 +2260,7 @@
     (pin "1" (uuid 42eadc4c-71d6-46e4-b87f-2e4602956b05))
     (pin "2" (uuid fedf938b-0d93-4788-af8a-64891cbb8b43))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "F2") (unit 1)
         )
@@ -2288,7 +2288,7 @@
     (pin "3" (uuid e905095b-937f-4c0c-944a-864dbb750e8f))
     (pin "2" (uuid 4e8c37ad-24f3-4296-af58-629d693dfc35))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "J2") (unit 1)
         )
@@ -2314,7 +2314,7 @@
     (pin "1" (uuid 43654b76-1f4c-418f-b513-54097c8400f1))
     (pin "2" (uuid e5cb114e-06e2-4e40-af39-1f1e825f0c17))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U13") (unit 1)
         )
@@ -2340,7 +2340,7 @@
     (pin "1" (uuid dc443db8-8cc9-48bf-8312-62bf51ef7af5))
     (pin "2" (uuid 9b1accab-844c-4d0b-a636-e40dbda9ee30))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U16") (unit 1)
         )
@@ -2369,7 +2369,7 @@
     (pin "2" (uuid a748a588-5859-4ee7-8139-9a5e6638f7df))
     (pin "1" (uuid a34830cd-a206-4719-afb9-94f78134c038))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U7") (unit 1)
         )
@@ -2395,7 +2395,7 @@
     (pin "2" (uuid 9756ef73-4bd9-4437-b6bb-a49fb44920e4))
     (pin "1" (uuid 3f83b7b0-9083-4854-ade0-0040c1fb1aae))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "R2") (unit 1)
         )
@@ -2423,7 +2423,7 @@
     (pin "2" (uuid 0f363701-5bf3-409a-aab1-d480cc03a8be))
     (pin "4" (uuid 9fdec4bb-8925-4a7e-a7c2-3f1ff291e124))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U3") (unit 1)
         )
@@ -2448,7 +2448,7 @@
     )
     (pin "1" (uuid e2bf58a3-dc54-469c-9178-f8fa1b495a13))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR09") (unit 1)
         )
@@ -2476,7 +2476,7 @@
     (pin "2" (uuid 6ad86686-c7b5-4e9e-9565-ce0250726338))
     (pin "3" (uuid d76e247d-a72c-4601-89d4-344caa4b897e))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U4") (unit 1)
         )
@@ -2502,7 +2502,7 @@
     (pin "2" (uuid ed74f953-aa06-4044-ab68-cf3c7c748f3d))
     (pin "1" (uuid 5a03a562-d922-4461-b04d-0c433bbe672a))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "R7") (unit 1)
         )
@@ -2527,7 +2527,7 @@
     )
     (pin "1" (uuid 016cc5a9-02e0-4fc3-9139-4c27df89c2ad))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR07") (unit 1)
         )
@@ -2553,7 +2553,7 @@
     (pin "2" (uuid f4ef42a6-f39e-476e-80d4-9274f2096811))
     (pin "1" (uuid 9b96ff73-b68b-42e1-a67a-27ee9dd44b5e))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "R6") (unit 1)
         )
@@ -2579,7 +2579,7 @@
     (pin "2" (uuid 8ab214d2-2574-43b6-b46b-733068c11d45))
     (pin "1" (uuid 4926147f-c8b7-45e6-9fd6-1db438907fa1))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "Switch1") (unit 1)
         )
@@ -2605,7 +2605,7 @@
     (pin "2" (uuid 51806f37-c024-412f-b10d-968f2d5bc1b9))
     (pin "1" (uuid e68e3fa5-f78e-4b7a-aec8-63143c707999))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "R5") (unit 1)
         )
@@ -2630,7 +2630,7 @@
     )
     (pin "1" (uuid 3c150aca-e7fa-4e6f-935b-f238d655a659))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR03") (unit 1)
         )
@@ -2658,7 +2658,7 @@
     (pin "3" (uuid 8f531e9e-065f-4a25-81d0-c91a473e3b3b))
     (pin "4" (uuid 510831bb-3e87-48fe-9c94-ff86b7b2d3fc))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U14") (unit 1)
         )
@@ -2683,7 +2683,7 @@
     )
     (pin "1" (uuid 74250015-7761-482c-be6d-28761063cc33))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR021") (unit 1)
         )
@@ -2711,7 +2711,7 @@
     (pin "3" (uuid 3381335c-3487-4c23-84f0-695f718c96c7))
     (pin "4" (uuid 623a146b-8d41-42f7-a73b-8c9faeb7e7a6))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U9") (unit 1)
         )
@@ -2736,7 +2736,7 @@
     )
     (pin "1" (uuid db908639-ec19-4c09-a682-15907fa9169c))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR01") (unit 1)
         )
@@ -2761,7 +2761,7 @@
     )
     (pin "1" (uuid 6890467a-dc42-4d51-9eb2-66dfa2dcb87d))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR011") (unit 1)
         )
@@ -2789,7 +2789,7 @@
     (pin "2" (uuid 1fe33ca6-839e-4b73-931a-e4e4a9039c98))
     (pin "4" (uuid 05435b49-7b4a-4cce-af22-91678743e909))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U10") (unit 1)
         )
@@ -2814,7 +2814,7 @@
     )
     (pin "1" (uuid 8464a1b2-2f56-478e-9ec0-1611d7664f43))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR04") (unit 1)
         )
@@ -2840,7 +2840,7 @@
     (pin "1" (uuid 965e9ded-dab1-4723-81cc-c66ab1550e4a))
     (pin "2" (uuid 7b98b9d1-effe-491b-b3a6-7a32558744ec))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "F7") (unit 1)
         )
@@ -2865,7 +2865,7 @@
     )
     (pin "1" (uuid 872b47fe-16d6-470d-b6df-1c0462a78305))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR013") (unit 1)
         )
@@ -2891,7 +2891,7 @@
     (pin "1" (uuid 57d6196e-2db6-4465-b5b6-32e18f9969e4))
     (pin "2" (uuid f5e422a5-8049-4a0d-b147-039b06512eaf))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U15") (unit 1)
         )
@@ -2917,7 +2917,7 @@
     (pin "2" (uuid ed157f81-c601-48bb-89b0-57952987c0a3))
     (pin "1" (uuid daa5c434-d4f5-460e-9d1e-aabed5d42941))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "R1") (unit 1)
         )
@@ -2945,7 +2945,7 @@
     (pin "3" (uuid dacc0b2c-d95e-4bb1-945d-1ace5d227033))
     (pin "4" (uuid ad624816-820b-4b43-ad78-d600a6b773cf))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U1") (unit 1)
         )
@@ -2973,7 +2973,7 @@
     (pin "3" (uuid 580e907e-92da-4461-9cd2-c583465310ed))
     (pin "4" (uuid 4120e5e5-372b-443f-b62a-afd7cbb0acf8))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U11") (unit 1)
         )
@@ -2998,7 +2998,7 @@
     )
     (pin "1" (uuid 8c242883-da66-4136-a7c1-aad6078cb914))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR018") (unit 1)
         )
@@ -3023,7 +3023,7 @@
     )
     (pin "1" (uuid 50363568-00c3-407c-a741-024e5f3b4391))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR06") (unit 1)
         )
@@ -3049,7 +3049,7 @@
     (pin "2" (uuid b169ee9b-4a1d-4ba1-8236-08203fb5f27d))
     (pin "1" (uuid 4980bb9a-9c68-4c72-90a3-85f9d675a533))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "Switch3") (unit 1)
         )
@@ -3075,7 +3075,7 @@
     (pin "2" (uuid fa308d54-15f2-4e35-965b-f9b7191b3e6d))
     (pin "1" (uuid 858dd454-a028-4a3d-b536-0f2d48e063b0))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "Switch7") (unit 1)
         )
@@ -3102,7 +3102,7 @@
     (pin "1" (uuid 35adf4e1-78e3-4606-8899-c1b434678f52))
     (pin "2" (uuid 5b69fd1c-e99f-489f-b574-ff352d27eeff))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "J6") (unit 1)
         )
@@ -3128,7 +3128,7 @@
     (pin "1" (uuid 43de7121-8039-4b8b-a6b1-81600db8c734))
     (pin "2" (uuid 2d13b3d7-abff-4c32-8d7c-d2e971372afc))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "J3") (unit 1)
         )
@@ -3153,7 +3153,7 @@
     )
     (pin "1" (uuid df9537cb-3bd9-4ab5-ad5f-27c51db53f31))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR010") (unit 1)
         )
@@ -3179,7 +3179,7 @@
     (pin "1" (uuid 94a2ad4d-7f33-4b40-b39d-1bb064ffdfba))
     (pin "2" (uuid 51aaff31-0a47-45e2-b6ac-7b020d664953))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U8") (unit 1)
         )
@@ -3204,7 +3204,7 @@
     )
     (pin "1" (uuid c7b9bd9b-cce7-456a-b036-d81e2f3eabb4))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR015") (unit 1)
         )
@@ -3233,7 +3233,7 @@
     (pin "4" (uuid e19474ca-daf2-4197-8f00-6cb8fc23ce48))
     (pin "5" (uuid 658ec9cb-21e6-4878-a812-bd972e953cbe))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "J4") (unit 1)
         )
@@ -3258,7 +3258,7 @@
     )
     (pin "1" (uuid 90828590-55c3-494a-88f8-1cc4977188d0))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR08") (unit 1)
         )
@@ -3283,7 +3283,7 @@
     )
     (pin "1" (uuid 342a26cb-cca8-432e-816a-e1c41a607ac5))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR019") (unit 1)
         )
@@ -3309,7 +3309,7 @@
     (pin "1" (uuid 17f61b03-bf4b-455f-8bd1-fb3739b1086e))
     (pin "2" (uuid a38fd4e8-ce9f-412a-b6bb-1c13b266c8df))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "U17") (unit 1)
         )
@@ -3335,7 +3335,7 @@
     (pin "1" (uuid 1cce3bd9-4711-4093-b659-61b322b36565))
     (pin "2" (uuid 40f1f195-828b-4d41-a9a3-763fc7357375))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "J5") (unit 1)
         )
@@ -3360,7 +3360,7 @@
     )
     (pin "1" (uuid e04dbe36-62a4-43a8-9db6-2c33b3e36767))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR05") (unit 1)
         )
@@ -3385,7 +3385,7 @@
     )
     (pin "1" (uuid 247e1d12-0c38-4fe4-bde7-03fd16633bd2))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "#PWR016") (unit 1)
         )
@@ -3411,7 +3411,7 @@
     (pin "1" (uuid e0a899f8-4c31-43d7-b527-97d253239a96))
     (pin "2" (uuid b884e589-b2fd-42cc-ae88-915680fac51e))
     (instances
-      (project "PowerBoard-Elec"
+      (project "PowerBoard"
         (path "/1cabdde5-e1f6-4eab-8c28-4a57089917b2"
           (reference "F1") (unit 1)
         )
